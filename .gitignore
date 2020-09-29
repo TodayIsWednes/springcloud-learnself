@@ -1,0 +1,7 @@
+##ignore this file##
+.idea
+*.iml
+
+## ignore folder##
+test
+target
